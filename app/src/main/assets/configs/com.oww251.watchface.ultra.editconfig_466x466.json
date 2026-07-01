@@ -1,0 +1,129 @@
+{
+  "mGlobal": {
+    "mWatchFaceName": "outdoormultifunction_watchface_name",
+    "mWatchFacePreview": "ic_preview"
+  },
+  "mStyles": [
+    {
+      "mIndex": 0,
+      "mColor": "#00000000",
+      "mPreviewResName": "ic_preview",
+      "mEditBackground": "ic_edit_widget_preview",
+      "mEngineBackground": "ic_watchface_bg",
+      "mComplicationConfigs": [
+        {
+          "mId": 100,
+          "mCoordinates": [
+            "181",
+            "24"
+          ],
+          "mSizes": [
+            "104",
+            "104"
+          ],
+          "mProviderMode": 1,
+          "mProviderId": 180,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 101,
+          "mCoordinates": [
+            "96",
+            "54"
+          ],
+          "mSizes": [
+            "72",
+            "72"
+          ],
+          "mProviderMode": 0,
+          "mProviderId": 109,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 102,
+          "mCoordinates": [
+            "298",
+            "54"
+          ],
+          "mSizes": [
+            "72",
+            "72"
+          ],
+          "mProviderMode": 0,
+          "mProviderId": 31,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 103,
+          "mCoordinates": [
+            "181",
+            "322"
+          ],
+          "mSizes": [
+            "104",
+            "104"
+          ],
+          "mProviderMode": 1,
+          "mProviderId": 148,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 104,
+          "mCoordinates": [
+            "96",
+            "340"
+          ],
+          "mSizes": [
+            "72",
+            "72"
+          ],
+          "mProviderMode": 0,
+          "mProviderId": 142,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 105,
+          "mCoordinates": [
+            "298",
+            "340"
+          ],
+          "mSizes": [
+            "72",
+            "72"
+          ],
+          "mProviderMode": 0,
+          "mProviderId": 105,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 106,
+          "mCoordinates": [
+            "83",
+            "190"
+          ],
+          "mSizes": [
+            "300",
+            "124"
+          ],
+          "mProviderMode": 2,
+          "mProviderId": 145,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        }
+      ]
+    }
+  ]
+}

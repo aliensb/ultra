@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.lite.Ultra2.a2g">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.oww251.watchface.ultra">
     <uses-feature android:name="android.hardware.type.watch"/>
     <uses-permission android:name="android.permission.VIBRATE" />
     <application android:allowBackup="false" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:extractNativeLibs="false" android:icon="@drawable/ic_app" android:label="@string/outdoormultifunction_watchface_name" android:supportsRtl="true" android:theme="@style/AppTheme">

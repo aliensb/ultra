@@ -8,7 +8,7 @@ android {
     compileSdk 28
 
     defaultConfig {
-        applicationId 'com.lite.Ultra2'
+        applicationId 'com.oww251.watchface.ultra'
         minSdk 24
         targetSdk 27
         versionCode 20003

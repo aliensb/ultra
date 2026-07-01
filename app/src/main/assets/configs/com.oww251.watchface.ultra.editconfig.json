@@ -1,0 +1,81 @@
+{
+  "mGlobal": {
+    "mWatchFaceName": "outdoormultifunction_watchface_name",
+    "mWatchFacePreview": "ic_preview"
+  },
+  "mStyles": [
+    {
+      "mIndex": 0,
+      "mColor": "#00000000",
+      "mPreviewResName": "ic_preview",
+      "mEditBackground": "ic_edit_widget_preview",
+      "mEngineBackground": "ic_watchface_bg",
+      "mComplicationConfigs": [
+        {
+          "mId": 100,
+          "mCoordinates": [
+            "13",
+            "12"
+          ],
+          "mSizes": [
+            "112",
+            "112"
+          ],
+          "mProviderMode": 1,
+          "mProviderId": 37,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 101,
+          "mCoordinates": [
+            "253",
+            "132"
+          ],
+          "mSizes": [
+            "112",
+            "112"
+          ],
+          "mProviderMode": 1,
+          "mProviderId": 170,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 102,
+          "mCoordinates": [
+            "253",
+            "252"
+          ],
+          "mSizes": [
+            "112",
+            "112"
+          ],
+          "mProviderMode": 1,
+          "mProviderId": 147,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        },
+        {
+          "mId": 103,
+          "mCoordinates": [
+            "13",
+            "372"
+          ],
+          "mSizes": [
+            "112",
+            "112"
+          ],
+          "mProviderMode": 1,
+          "mProviderId": 6,
+          "mFixedColor": "#FFFFFF",
+          "mChangeStyleEnabled": true,
+          "mChangeProviderEnabled": true
+        }
+      ]
+    }
+  ]
+}
