@@ -31,3 +31,13 @@
 
     return-object v0
 .end method
+
+.method public final createWatchFaceView(Landroid/content/Context;ILjava/lang/String;)Lm0/p;
+    .locals 1
+
+    invoke-virtual {p0, p1, p2}, Lcom/heytap/wearable/watchface/outdoormultifunction/WatchFaceServiceImpl;->createWatchFaceView(Landroid/content/Context;I)Lm0/p;
+
+    move-result-object v0
+
+    return-object v0
+.end method
