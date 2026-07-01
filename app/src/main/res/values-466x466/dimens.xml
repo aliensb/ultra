@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="outdoor_compass_left">329.0px</dimen>
+    <dimen name="outdoor_compass_top">24.0px</dimen>
+    <dimen name="outdoor_compass_left_text">107.0px</dimen>
+    <dimen name="outdoor_compass_top_text">24.0px</dimen>
+    <dimen name="outdoor_month_left">237.0px</dimen>
+    <dimen name="outdoor_month_top">458.0px</dimen>
+    <dimen name="outdoor_time_left">233.0px</dimen>
+    <dimen name="outdoor_time_top3">191.0px</dimen>
+    <dimen name="outdoor_transparent_compass_left">184.0px</dimen>
+    <dimen name="outdoor_transparent_compass_top">7.0px</dimen>
+    <dimen name="outdoor_transparent_uv_top">351.0px</dimen>
+    <dimen name="textsize">24.0px</dimen>
+    <dimen name="textsizetime">81.0px</dimen>
+    <dimen name="watchface_mcu_preview_bg_height">168.0dip</dimen>
+    <dimen name="watchface_mcu_preview_bg_margin">6.0dip</dimen>
+    <dimen name="watchface_mcu_preview_bg_width">168.0dip</dimen>
+</resources>
